@@ -24,7 +24,7 @@ z-index: 1000;
 }
 
 header div a img {
-margin: 0px 0px 0px 61px;
+margin: 5px 0px 0px 61px;
 }
 
 nav {
@@ -35,13 +35,18 @@ gap: 62px;
 }
 
 nav a {
-font-size: 18px;
-font-weight: 540;
+font-size: 16px;
+font-weight: 500;
 color: rgb(24, 25, 31);
   font-family: "Poppins", sans-serif;
 text-decoration: none;
 }
 
+.ngng {
+position: absolute;
+top: 29%;
+right: 62%;
+}
 
 .login a {
   display: flex;
@@ -861,19 +866,6 @@ font-family: "poppins", sans-serif;
 font-size: 24px;
 font-weight: 700;
 text-align: center;
-
-}
-
-.whywork1 h3:nth-child(1) {
-
-}
-
-.whywork1 h3:nth-child(2) {
-
-}
-
-.whywork1 h3:nth-child(3) {
- 
 }
 
 .whywork1 p {
@@ -890,14 +882,6 @@ width: 68%;
 
 .whywork1 p:nth-child(1) {
 width: 2%;
-}
-
-.whywork1 p:nth-child(2) {
-
-}
-
-.whywork1 p:nth-child(3) {
-
 }
 
 
